@@ -6,7 +6,8 @@
   width: 300px;
   height: 100px;
   padding: 5px;
-  border: 2px solid #eee;
+  border: 1px solid #eee;
+  border-radius: 4px;
   overflow-x: scroll;
   margin: 5px;
 }
