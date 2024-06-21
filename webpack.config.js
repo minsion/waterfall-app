@@ -14,7 +14,7 @@ module.exports = {
       overlay: false,
     },
     webSocketServer: false,
-    // server: "spdy",
+    server: "spdy",
     proxy: {
       "/api": {
         target: "https://www.cnuseful.com",
